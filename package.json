@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnnaGubar/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/AnnaGubar/webpack1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnnaGubar/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/AnnaGubar/webpack1/issues"
   },
-  "homepage": "https://github.com/AnnaGubar/goit-js-hw-10-food-service#readme",
+  "homepage": "https://github.com/AnnaGubar/webpack1#readme",
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/plugin-proposal-class-properties": "^7.12.1",

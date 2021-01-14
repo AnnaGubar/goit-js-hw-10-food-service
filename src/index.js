@@ -30,7 +30,7 @@ function changeThemeHandler(event) {
 }
 
 function checkThemeHandler() {
-  if (localStorage.theme === 'dark-theme') {
+  if (localStorage.theme === 'Theme.DARK') {
     document.body.classList.add(Theme.DARK);
     themeRefs.checked = true;
   } else {
